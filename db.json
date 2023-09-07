@@ -2,19 +2,19 @@
     "id": 1,
     "nome": "Fernando Ortiz Borges",
     "conta": {
-      "id": 1,
-      "user": "fernando.ortiz",
-      "e-mail": "fernando.ortiz@xyz.com.br",
-      "password": "1234mudar"
+        "id": 1,
+        "user": "fernando.ortiz",
+        "e-mail": "fernando.ortiz@xyz.com.br",
+        "password": "1234mudar"
     },
     "cursos": [
-      { "id": 1, "titulo": "Entendendo o ES6", "url": "https://www.codeprestige.com.br/cursos/es6" },
-      { "id": 2, "titulo": "Produtividade Máxima com o VS Code", "url": "https://www.udemy.com/truques-vscode/" }
+        { "id": 1, "titulo": "Entendendo o ES6", "url": "https://www.codeprestige.com.br/cursos/es6" },
+        { "id": 2, "titulo": "Produtividade Máxima com o VS Code", "url": "https://www.udemy.com/truques-vscode/" }
     ],
     "news": [
-      {
-        "id": 1,
-        "mensagem": "Invista agora, garanta seu futuro!"
-      }
+        {
+            "id": 1,
+            "mensagem": "Invista agora, garanta seu futuro!"
+        }
     ]
-  }
+}
